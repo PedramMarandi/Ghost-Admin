@@ -213,3 +213,10 @@
     font-weight: 200;
     color: var(--red);
 }
+
+@media (max-width: 375px) {
+    .gh-publishmenu-dropdown {
+        right: 10px !important;
+        top: 45px !important;
+    }
+}

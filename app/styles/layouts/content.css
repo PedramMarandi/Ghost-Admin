@@ -5,7 +5,7 @@
 
 .gh-contentfilter {
     display: flex;
-    align-items: center;
+    align-items: auto;
     justify-content: space-between;
     margin: 2vw 0 1vw;
     padding: 10px 0 0 0;
